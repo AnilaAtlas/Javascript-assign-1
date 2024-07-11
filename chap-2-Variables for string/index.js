@@ -59,14 +59,14 @@ alert("My email address is @"  + email);
 // message in an alert box:
 
 var book = ("A smarter way to learn Javascript.");
-alert("I am trying to learn from the BOOK" +" " + book);
+alert("I am trying to learn from the BOOK " + book);
 
 
 
 
 // 8. Write a script to display this in browser through JS
 
-document.write("Yah! I can write HTML content through Javascript");
+document.write("Yah! I can write HTML content through Javascript </br>");
 
 
 
