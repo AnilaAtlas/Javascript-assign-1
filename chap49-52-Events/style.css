@@ -1,0 +1,71 @@
+
+.container {
+  background-color: rgb(104, 196, 173);
+  padding: 20px;
+  border-radius: 8px;
+  width: 500px;
+}
+
+.Add-form {
+  background-color: rgba(214, 155, 175, 0.534);
+  padding: 20px;
+  border-radius: 8px;
+  width: 500px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  padding: 10px;
+  background-color: #336186;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #465cc0;
+}
+
+.form-data {
+  margin-top: 20px;
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+}
+
+#editFormContent {
+  background-color: rgb(124, 158, 202);
+  padding: 20px;
+  border-radius: 8px;
+  width: 500px;
+}
+
+table {
+  width: 50%;
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
